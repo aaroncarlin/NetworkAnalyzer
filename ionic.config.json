@@ -1,0 +1,7 @@
+{
+  "name": "NetworkAnalyzer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
